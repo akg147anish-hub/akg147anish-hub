@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Anish Gupta</h1>
+<h1 align="center">Namaste 🙏, I'm Anish Gupta</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Build;Building+Cool+Projects+%F0%9F%9A%80;Learning+Every+Day+%F0%9F%93%9A" />
+</p>
 
 - 📫 How to reach me: **akg147.anish@gmail.com**
 
@@ -22,21 +26,38 @@
 </a>
 </p>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akg147anish-hub&theme=algolia&no-frame=true&margin-w=10&row=1" />
+</p>
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akg147anish-hub&show_icons=true&theme=gotham" />
+<img src="https://github-readme-stats-bny7kgadv-akg147anish-hubs-projects.vercel.app/api/top-langs/?username=akg147anish-hub&layout=compact&theme=gotham&hide_border=true" />
 </p>
 
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=akg147anish-hub&theme=gotham" />
+<img src="https://streak-stats.demolab.com?user=akg147anish-hub&theme=gotham&hide_border=true" />
 </p>
 
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akg147anish-hub&theme=gotham" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akg147anish-hub&theme=gotham&hide_border=true" />
 </p>
-<img src="https://raw.githubusercontent.com/akg147anish-hub/akg147anish-hub/output/github-contribution-grid-snake-dark.svg" />
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/akg147anish-hub/akg147anish-hub/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<h2 align="center">👀 Profile Views</h2>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=akg147anish-hub&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
