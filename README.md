@@ -52,12 +52,6 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/akg147anish-hub/akg147anish-hub/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-<h2 align="center">👀 Profile Views</h2>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=akg147anish-hub&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
 </h3>
