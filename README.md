@@ -39,3 +39,4 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akg147anish-hub&theme=gotham" />
 </p>
+<img src="https://raw.githubusercontent.com/akg147anish-hub/akg147anish-hub/output/github-contribution-grid-snake-dark.svg" />
