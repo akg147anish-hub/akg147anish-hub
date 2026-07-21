@@ -43,7 +43,7 @@
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akg147anish-hub&theme=gotham&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akg147anish-hub&theme=react-dark&hide_border=true" />
 </p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
