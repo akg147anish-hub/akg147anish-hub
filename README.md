@@ -25,24 +25,19 @@
 <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode" />
 </a>
 </p>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akg147anish-hub&theme=algolia&no-frame=true&margin-w=10&row=1" />
-</p>
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
 <img src="https://github-readme-stats-2qd5.vercel.app/api?username=akg147anish-hub&show_icons=true&theme=gotham&hide_border=true" />
+<img src="https://github-readme-stats-2qd5.vercel.app/api/top-langs/?username=akg147anish-hub&layout=compact&theme=gotham&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats-2qd5.vercel.app/api/top-langs/?username=akg147anish-hub&layout=compact&theme=gotham&hide_border=true" />
-</p>
+
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=akg147anish-hub&theme=gotham&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akg147anish-hub&theme=gotham&hide_border=true" alt="GitHub Streak" />
+</p>
 </p>
 
 <h2 align="center">📈 Activity Graph</h2>
@@ -50,6 +45,7 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akg147anish-hub&theme=gotham&hide_border=true" />
 </p>
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
